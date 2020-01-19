@@ -34,6 +34,7 @@ El resultado del crawler se sube al segment de google storage.
 
 Una vez se tengan las fuentes en cloud, desde el cluster Hadoop creamos tablas en HIVE e insertamos los datos para cruzarlos y obtener el ranking de los host más cercanos a los puntos turisticos.
 
+![Diagrama](ArquitecturaPracticaBDA.png)
 [Diagrama](https://drive.google.com/file/d/1k-SSM-BjNh5QbT1zv2JrVUreTtK-qrxp/view)
 
 [Documento](https://www.lucidchart.com/documents/view/f9281224-1b6b-43c9-b211-db5991582bde/qF6ap.oB9wq-)
